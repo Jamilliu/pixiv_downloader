@@ -1,0 +1,7 @@
+# Python cache files and directories
+__pycache__/
+*.pyc
+build/
+dist/
+logs/
+*.spec
